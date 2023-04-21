@@ -15,4 +15,4 @@ jobs:
         echo "Docker Tag..."
     - name: Push
       run: |
-        echo "Docker Push..."
+        echo "Docker Push..." 
